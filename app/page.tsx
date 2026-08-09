@@ -26,10 +26,10 @@ export default function Home() {
             </p>
 
             <h1 className="max-w-5xl text-[clamp(3.5rem,9vw,9rem)] font-medium leading-[0.85] tracking-[-0.06em] text-white/80">
-            ᏄᏓᎴᎩᏍᏗᎭ 
+            ᏗᎦᏃᏗᎢ
               <br />
             
-              <span className="text-white/40">ᏗᎦᏃᏗᎢ</span>
+              <span className="text-white/40"></span>
             </h1>
 
             <p className="mt-12 max-w-2xl text-lg leading-relaxed text-white/70 md:text-xl">
