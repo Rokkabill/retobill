@@ -15,7 +15,7 @@ export default function Home() {
 </div>
 
           <div className="text-sm text-white/60">
-            Zurich・Switzerland
+            RETO BILL
           </div>
         </nav>
 
@@ -26,13 +26,15 @@ export default function Home() {
             </p>
 
             <h1 className="max-w-5xl text-[clamp(3.5rem,9vw,9rem)] font-medium leading-[0.85] tracking-[-0.06em] text-white/80">
-              On my own terms.
+            ᏄᏍᏛ 
               <br />
-              <span className="text-white/40">AUTONOMY.</span>
+              ᎠᏂᏐᏈᏍᎩ 
+              <br />
+              <span className="text-white/40">ᎠᏁᎲᎢ</span>
             </h1>
 
             <p className="mt-12 max-w-2xl text-lg leading-relaxed text-white/70 md:text-xl">
-              I'm Reto Bill.
+
             </p>
           </div>
         </section>
