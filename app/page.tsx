@@ -55,24 +55,24 @@ export default function Home() {
     </a>
 
     <a
-      href="https://vault.fm/home"
+      href="https://music.apple.com/"
       className="transition-colors hover:text-white"
     >
-      Vault
+      Apple Music
     </a>
 
     <a
-      href="https://www.reprised.app/"
+      href="https://music.youtube.com/"
       className="transition-colors hover:text-white"
     >
-      Reprised
+      Youtube Music
     </a>
 
     <a
-      href="https://www.instagram.com/retobill/"
+      href="https://open.spotify.com/"
       className="transition-colors hover:text-white"
     >
-      Instagram
+      Spotify
     </a>
   </div>
 
