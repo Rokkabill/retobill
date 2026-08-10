@@ -37,74 +37,19 @@ export default function Home() {
             </p>
           </div>
         </section>
-        <footer className="absolute bottom-0 left-0 right-0 flex flex-col gap-6 px-6 py-6 text-sm text-white/60 md:grid md:grid-cols-3 md:items-center md:px-10">
-  {/* Left */}
-  <div className="flex gap-6">
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Bandcamp
-    </a>
+        <footer className="absolute bottom-0 left-0 right-0 flex items-center justify-between px-6 py-6 text-sm text-white/60 md:px-10">
+  <a
+    href="/#"
+    className="transition-colors hover:text-white"
+  >
+    Legal Notice
+  </a>
 
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Tidal
-    </a>
-
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Apple Music
-    </a>
-
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Youtube Music
-    </a>
-
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Amazon Music
-    </a>
-
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Spotify
-    </a>
-
-    <a
-      href="#"
-      className="transition-colors hover:text-white"
-    >
-      Deezer
-    </a>
-  </div>
-
-  {/* Center */}
-  <div className="text-center">
-    <a
-      href="/#"
-      className="transition-colors hover:text-white"
-    >
-      Legal Notice
-    </a>
-  </div>
-
-  {/* Right */}
-  <div className="text-left md:text-right">
+  <div>
     © {new Date().getFullYear()} Reto Bill
   </div>
 </footer>
+
       </div>
     </main>
   );
