@@ -41,45 +41,59 @@ export default function Home() {
   {/* Left */}
   <div className="flex gap-6">
     <a
-      href="https://bandcamp.com/"
+      href="#"
       className="transition-colors hover:text-white"
     >
       Bandcamp
     </a>
 
     <a
-      href="https://tidal.com/"
+      href="#"
       className="transition-colors hover:text-white"
     >
       Tidal
     </a>
 
     <a
-      href="https://music.apple.com/"
+      href="#"
       className="transition-colors hover:text-white"
     >
       Apple Music
     </a>
 
     <a
-      href="https://music.youtube.com/"
+      href="#"
       className="transition-colors hover:text-white"
     >
       Youtube Music
     </a>
 
     <a
-      href="https://open.spotify.com/"
+      href="#"
+      className="transition-colors hover:text-white"
+    >
+      Amazon Music
+    </a>
+
+    <a
+      href="#"
       className="transition-colors hover:text-white"
     >
       Spotify
+    </a>
+
+    <a
+      href="#"
+      className="transition-colors hover:text-white"
+    >
+      Deezer
     </a>
   </div>
 
   {/* Center */}
   <div className="text-center">
     <a
-      href="/legal"
+      href="/#"
       className="transition-colors hover:text-white"
     >
       Legal Notice
