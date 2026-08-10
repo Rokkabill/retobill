@@ -48,17 +48,31 @@ export default function Home() {
     </a>
 
     <a
-      href="https://t.me/retobill"
+      href="https://tidal.com/"
       className="transition-colors hover:text-white"
     >
-      Telegram
+      Tidal
     </a>
 
     <a
-      href="https://www.linkedin.com/in/reto-bill"
+      href="https://vault.fm/home"
       className="transition-colors hover:text-white"
     >
-      LinkedIn
+      Vault
+    </a>
+
+    <a
+      href="https://www.reprised.app/"
+      className="transition-colors hover:text-white"
+    >
+      Reprised
+    </a>
+
+    <a
+      href="https://www.instagram.com/retobill/"
+      className="transition-colors hover:text-white"
+    >
+      Instagram
     </a>
   </div>
 
