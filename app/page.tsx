@@ -14,7 +14,7 @@ export default function Home() {
   />
 </div>
 
-          <div className="text-sm text-white/60">
+          <div className="text-sm text-white/80">
             RETO BILL
           </div>
         </nav>
@@ -37,7 +37,7 @@ export default function Home() {
             </p>
           </div>
         </section>
-        <footer className="absolute bottom-0 left-0 right-0 flex items-center justify-between px-6 py-6 text-sm text-white/60 md:px-10">
+        <footer className="absolute bottom-0 left-0 right-0 flex items-center justify-between px-6 py-6 text-sm text-white/30 md:px-10">
   <a
     href="/#"
     className="transition-colors hover:text-white"
