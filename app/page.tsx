@@ -15,7 +15,7 @@ export default function Home() {
 </div>
 
           <div className="text-sm text-white/80">
-            RETO BILL
+           
           </div>
         </nav>
 
