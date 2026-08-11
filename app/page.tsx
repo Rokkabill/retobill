@@ -8,9 +8,9 @@ export default function Home() {
         <nav className="flex items-center justify-between px-6 py-6 md:px-10">
         <div>
   <img
-    src="/logo.png"
+    src="/logo.svg"
     alt="Reto Bill"
-    className="h-8 w-auto"
+    className="h-12 w-auto"
   />
 </div>
 
