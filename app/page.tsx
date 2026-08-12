@@ -25,7 +25,7 @@ export default function Home() {
               Don’t Die With Your Music Still In You
             </p>
 
-            <h1 className="max-w-5xl text-[clamp(3.5rem,9vw,9rem)] font-medium leading-[0.85] tracking-[-0.06em] text-white/80">
+            <h1 className="max-w-5xl text-[clamp(3.5rem,9vw,9rem)] font-medium leading-[0.85] tracking-[-0.06em] text-white/75">
             ᏗᎦᏃᏗᎢ
               <br />
             
