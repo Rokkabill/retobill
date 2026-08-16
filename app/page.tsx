@@ -33,7 +33,7 @@ export default function Home() {
             </h1>
 
             <p className="mt-12 max-w-2xl text-lg leading-relaxed text-white/70 md:text-xl">
-
+            cultural resistance
             </p>
           </div>
         </section>
