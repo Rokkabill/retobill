@@ -22,11 +22,11 @@ export default function Home() {
         <section className="flex min-h-[calc(100vh-80px)] flex-col justify-center px-6 pb-20 md:px-10">
           <div className="max-w-6xl">
             <p className="mb-8 text-sm uppercase tracking-[0.2em] text-white/50">
-              Don’t Die With Your Music Still In You
+              
             </p>
 
             <h1 className="max-w-5xl text-[clamp(3.5rem,9vw,9rem)] font-medium leading-[0.85] tracking-[-0.06em] text-white/80">
-            ᏗᎦᏃᏗᎢ
+            
               <br />
             
               <span className="text-white/40"></span>
