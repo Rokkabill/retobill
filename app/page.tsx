@@ -10,7 +10,7 @@ export default function Home() {
   <img
     src="/logo.png"
     alt="Reto Bill"
-    className="h-20 w-auto"
+    className="h-8 w-auto"
   />
 </div>
 
