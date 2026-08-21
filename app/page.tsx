@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main
       className="relative min-h-screen bg-cover bg-center bg-no-repeat text-white"
-      style={{ backgroundImage: "url('/tape.jpg')" }}
+      style={{ backgroundImage: "url('/background1.jpg')" }}
     >
       <div className="relative min-h-screen bg-gradient-to-b from-black/67 via-black/30 to-black/77">
         <nav className="flex items-center justify-between px-6 py-6 md:px-10">
